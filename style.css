@@ -34,12 +34,12 @@ hr
   text-transform: uppercase;
 }
 
-.btn-primary {
+.btn-prim {
   background-color: #F05F44;
   border-color: #F05F44;
 }
 
-.btn-primary:hover {
+.btn-prim:hover {
   background-color: #ee4b08;
   border-color: #ee4b08;
   border-width: 4px;
